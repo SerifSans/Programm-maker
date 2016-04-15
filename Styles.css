@@ -1,0 +1,115 @@
+body {
+background: #DCDCDC;
+}
+.green{
+color: #28CD8E;
+}
+.table{
+color: white;
+}
+.page{
+border: 1px solid grey;
+margin-left: 5em;
+margin-right: 5em;
+margin-top: 2em;
+margin-bottom: 2em;
+padding: 20px;
+padding-bottom: 20px;
+width: 80%;
+height: 40em;
+}
+.bottom{
+border-bottom: 1px solid #9E9E9E;
+}
+.hard{
+border: 1px solid grey;
+width: 10em;
+height: 17em;
+}
+.w{
+color: #FFFFFF;
+}
+.tim{
+font-weight: bold;
+font-size: 120%;
+color: black;
+}
+.weak{
+font-size: 75%;
+color: #A9A9A9;
+}
+.suggest{
+border: 1px solid grey;
+background: #DCDCDC;
+width: 40em;
+height: 10em;
+}
+.time{
+color: #DCDCDC;
+font-size: 1rem;
+}
+.title{
+font-size: 2rem;
+}
+.nickname{
+color: #28CD8E;
+font-weight: bold;
+}
+.button{
+border: 1px solid white;
+background: #28CD8E;
+color: #FFF;
+font-weight: bold;
+padding: 10px;
+width: 70px;
+height: 20px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 5px;
+}
+.plain{
+color: #656565;
+}
+.rd{
+color: #DE5D06;
+font-weight: bold;
+}
+.nd{
+color: #868686;
+font-weight: bold;
+}
+.st{
+color: #FFDB00;
+font-weight: bold;
+}
+.page1{
+border: 1px solid grey;
+margin-left: 5em;
+margin-right: 5em;
+margin-top: 2em;
+margin-bottom: 2em;
+padding: 20px;
+padding-bottom: 20px;
+width: 80%;
+height: 40em;
+}
+.tablet{
+padding-left: 4.7em;
+padding-right: 4.7em;
+}
+.feedfront{
+border: 1px solid grey;
+color: #28CD8E;
+font-weight: bold;
+padding: 10px;
+width: 60px;
+height: 10px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 5px;
+}
+.tablast{
+padding-left: 4.7em;
+padding-right: 4.7em;
+border-top: 1px solid grey;
+}
